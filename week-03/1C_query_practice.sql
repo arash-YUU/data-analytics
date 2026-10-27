@@ -43,5 +43,3 @@ SELECT EmployeeID, FirstName, LastName, Title, Salary
 FROM employees 
 WHERE Salary BETWEEN 2000 AND 2500 
 ORDER BY Title ASC;
-
--- 9. Save your changes to 1C_query_practice.sql and use Git Bash to add, commit, and push to DataAnalytics/week-03.
