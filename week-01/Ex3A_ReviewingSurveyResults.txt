@@ -1,11 +1,17 @@
-1. Most students said they would get their computer ready, check their notes, and prepare for the class.
-2.Most students do not have a second monitor; 13 said no , 2 said yes and 9 chose other and the pie chat make it easy to see.
-3. Most students do not have an external keyboard and mouse; the results were the same as question 2.
-4. 23 students chose other and only 1 chose pen and paper, which was me.
-5. Students asked different questions about computer data and AI.
-6. I was surprised that 23 students chose other for taking notes.
-7. I would get ready, check my tech, get mt cup of tea, and maybe review my notes.
-8. I would use the results to understand what equipment students have and how the majority of them use different ways of taking notes.
-9. Yes, because students give honest answers in an anonymous survey.
+1. Most students said they would get their computer ready, check their notes, and prepare for class. Some also said they join Zoom early. The written answers are helpful, but people use different words for the same things, so grouping similar answers would make them easier to understand.
 
-10-18-2026: Nothing changes except the commit history.
+2. Most students do not have a second monitor. After putting similar answers together, 13 said no, 10 said yes, and 1 said maybe. The pie chart makes it easy to compare, but “Yes” and “Yes, I have second monitor” should be counted together.
+
+3. Eight students said they have an external keyboard and mouse, 13 said no, 2 mentioned only a mouse, and 1 said maybe. I think asking about the keyboard and mouse separately would make the answers clearer.
+
+4. Ten students mentioned pen and paper, 8 mentioned a computer, 1 mentioned an iPad, 1 said both, and 4 said “A and B.” My first answer did not show what people actually wrote under other. Letting students choose more than one clear option would help.
+
+5. Students asked different questions about coding languages, AI, jobs, and how much practice we would get. These answers help show what students want to learn. Putting similar questions together would make the common topics easier to see.
+
+6. I was surprised that many students counted under other actually use a computer or pen and paper. Looking at the written answers helped me understand the results better than just looking at the chart.
+
+7. I would get ready, check my tech, get my cup of tea, and review my notes. I would also try joining early so I have time to fix any problems before class.
+
+8. I would use the results to understand what equipment students have and how they take notes. Since 13 students do not have a second monitor, I would give them time to switch between the class screen and their work.
+
+9. Yes, I think an anonymous survey can help students feel more comfortable giving honest answers. But it does not mean every answer will be honest, and the instructor would not know who needs help. I would give students another way to ask for help privately.
