@@ -31,12 +31,12 @@
 customer_id = 12345                 # Since the variable name is customer_id, it needs to be an integer.
 customer_name = "John Doe"          # Since the variable name is customer_name, it needs to be a string.
 customer_gender = "Male"            # Since the variable name is customer_gender, it needs to be a string.
-customer_dob = "1990-01-01"         # Since the variable name is customer_dob, it is technacly a integer but ther is hiven so it nees ot be on a string.
-driver_license_number = "D1234567"  # Since the variable name is driver_license_number,and constaine numbers and letters, it needs to be a string.
-auto_policy_number = "A9876543"     # Since the variable name is auto_policy_number,and containe numbers and letters, it needs to be a string.
+customer_dob = "1990-01-01"         # Since the variable name is customer_dob, it is technically an integer, but there is a hyphen symbol included, so it nees ot be on a string.
+driver_license_number = "D1234567"  # Since the variable name is driver_license_number, and contains numbers and letters, it needs to be a string.
+auto_policy_number = "A9876543"     # Since the variable name is auto_policy_number and contains numbers and letters, it needs to be a string.
 
 my_name = "Sayaeed Arashullah"    
 city_born_at = "Taloqan"     
-state_born_at = "Takhar"          
+state_born_at = "Takhar"     
 
 
