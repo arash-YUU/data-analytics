@@ -13,14 +13,14 @@ contact_info = {
 
 print(f"{contact_info['name']}\n{contact_info['address']}\n{contact_info['city']}, {contact_info['state']} {contact_info['zip']}")
 
-del contact_info["name"]                 # Remove the original name
+del contact_info["name"]  # Remove the old name before adding the separate name parts
 
 full_name = {
     "first name": "Alex",
     "last name": "Morgan"
 }
 
-full_name.update({"honorific": "Mx."})   # Add a title to the name
-contact_info.update({"full_name": full_name})  # Add the name dictionary to the contact
+full_name.update({"honorific": "Mx."})
+contact_info.update({"full_name": full_name})  # The contact now holds another dictionary for the name
 
 print(f"{contact_info['full_name']['honorific']} {contact_info['full_name']['first name']} {contact_info['full_name']['last name']}\n{contact_info['address']}\n{contact_info['city']}, {contact_info['state']} {contact_info['zip']}")
