@@ -10,8 +10,8 @@ dollars = 3
 cents = .50
 print(dollars + cents)  # This will print 3.5, which is the sum of dollars and cents.
 
-cents = .25
-print(dollars + cents)  # This will print 3.25, which is the sum of dollars and cents.
+cents = cents + .25
+print(dollars + cents)  # This will print 3.75, which is the sum of dollars and cents.
 
 d_str = '3 dollars'
 c_str = '50 cents'
