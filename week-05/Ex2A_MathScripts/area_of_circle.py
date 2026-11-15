@@ -5,7 +5,8 @@
 
 from math import pi
 
-area_radius = 5
+diameter = 30
+area_radius = diameter / 2
 
 area = pi * area_radius ** 2
 print(f"The area of the circle with radius {area_radius} is {area:.2f}")
