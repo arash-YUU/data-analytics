@@ -8,4 +8,6 @@ area_b = 30
 
 area = area_a * area_b
 
+print(f"Side A is {area_a}")
+print(f"Side B is {area_b}")
 print(f"The area of the rectangle is {area}")
