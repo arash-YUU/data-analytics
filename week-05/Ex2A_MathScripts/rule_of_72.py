@@ -11,10 +11,10 @@
 savings = 1000                                              # Current savings
 interest_rate = 0.05                                        # Annual interest rate
 time_to_double = 72 / (interest_rate * 100)                 # Time to double investment using the Rule of 72
-years_to_double = int(time_to_double)                       # Convert time to double to an integer for display purposes
+years_to_double = time_to_double
 
 print(f"Your current savings is ${savings:,.2f}")
-print(f"At an interest rate of {interest_rate * 100:.2f}%, your savings will be worth ${savings * 2:,.2f} in {years_to_double} years.")
+print(f"At an interest rate of {interest_rate * 100:.2f}%, your savings will be worth ${savings * 2:,.2f} in {years_to_double:.1f} years.")
 
 # User input for savings and interest rate, below program will calculate the time to double the investment based on user input.
 #savings = float(input("Enter your current savings: "))
@@ -23,4 +23,4 @@ print(f"At an interest rate of {interest_rate * 100:.2f}%, your savings will be 
  # years_to_double = int(time_to_double)
 
 #print(f"Your current savings is ${savings:,.2f}")
-#print(f"At an interest rate of {interest_rate * 100:.2f}%, your savings will be worth ${savings * 2:,.2f} in {years_to_double} years.")`
+#print(f"At an interest rate of {interest_rate * 100:.2f}%, your savings will be worth ${savings * 2:,.2f} in {years_to_double:.1f} years.")`
