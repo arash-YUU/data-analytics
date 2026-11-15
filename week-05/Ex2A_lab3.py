@@ -13,3 +13,6 @@ print(f"Your bank balance is ${bank_balance:,.2f}")
 radius =float(input("Enter the radius of the circel: "))
 area = pi * radius ** 2
 print(f"The area of the circle with radius {radius} is {area:.2f}")
+# input() returns text, so I use float() before doing math.
+# Letters, an empty answer, or a dollar sign will cause a ValueError.
+# A negative radius is accepted, but it does not make sense for a circle.
