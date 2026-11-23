@@ -4,5 +4,5 @@
 # Instructor: Deodat Sharma
 
 f = open("about_me.txt", "a")  # Append keeps the text already in the file
-f.write("Perfect night out: Dinner with friends, a movie, and a walk by the water.\n")
+f.write("Perfect night out: Hang out with friends and play video games all night.\n")
 f.close()
